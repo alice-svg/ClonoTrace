@@ -1,6 +1,6 @@
 # ClonoTrace
 
-> **BCR-aware single-cell trajectory inference** — from scRNA and raw scVDJ annotations to developmental pseudotime.
+> **BCR-aware single-cell trajectory inference** — from scRNA and raw scV(D)J annotations to developmental pseudotime.
 
 <!--badges placeholder – add when repo is public-->
 <!-- [![PyPI](https://img.shields.io/pypi/v/clonotrace)](https://pypi.org/project/clonotrace/) -->
@@ -16,7 +16,7 @@ The pipeline integrates BCR maturation quality scoring (q-score) with
 single-cell trajectory inference for B cell lineage tracing.
 
 ```
-Single-cell dataset (scRNA-seq + VDJ)
+Single-cell dataset (scRNA-seq + V(D)J)
             │
             ▼
   ┌─────────────────────┐
