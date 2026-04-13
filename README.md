@@ -9,6 +9,12 @@
 
 ## Overview
 
+![ClonoTrace Pipeline Overview](readme_overview.png)
+
+**Figure:** Schematic overview of the ClonoTrace framework. 
+The pipeline integrates BCR maturation quality scoring (q-score) with 
+single-cell trajectory inference for B cell lineage tracing.
+
 ```
 Single-cell dataset (scRNA-seq + VDJ)
             │
